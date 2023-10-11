@@ -18,6 +18,46 @@
 - 🌱 Currently learning Photon Quantum.
 
 
+<h2><i>☕︎ Companies I Have Worked With</i></h2>
+
+<table width="100">
+<tr>
+  <td align='center' width="190">
+        <img src="https://d36mxiodymuqjm.cloudfront.net/website/home/splinterlands_logo_fx_1000.png">
+    </td>
+    <td align='center' width="190">
+        <img src="https://getrealxr.com/wp-content/uploads/2020/10/Arthur-Logo-2-1_clipped_rev_1.png" >
+    </td>
+    <td align='center' width="190">
+        <img src="https://mma.prnewswire.com/media/516048/SparkCognition_Logo.jpg"  >
+    </td>
+    <td align='center' width="190">
+        <img src="https://ik.imagekit.io/xanalia/xana/logo-text.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.fiveriverstech.com/wp-content/uploads/2023/02/frt-logo.svg">
+    </td>
+</tr>
+<tr>
+  <td align='center' width="190">
+        SPINTERLANDS
+    </td>
+    <td align='center' width="190">
+        ARTHUR
+    </td>
+    <td align='center' width="190">
+        SparkCognition
+    </td>
+    <td align='center' width="190">
+        XANA
+    </td>
+     <td align='center' width="190">
+        Five River Technologies
+    </td>
+</tr>
+
+</table>
+
 <h2><i>💻 Tools & Technologies</i></h2>
 
 <table width="100">
