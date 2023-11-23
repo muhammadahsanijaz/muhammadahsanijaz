@@ -16,7 +16,7 @@
   2023 Goals:
 - 🥅 Contribute more to Open Source projects on Github, Discord, StackOverFlow.
 - 👯 Joined more than 10 Unity Discussion Platforms and helping others development problem.
-- 🌱 Currently learning Photon Quantum.
+- 🌱 Currently working on Racing game prototype on Photon Quantum.
 
 
 <h2><i>☕︎ Companies I Have Worked With</i></h2>
